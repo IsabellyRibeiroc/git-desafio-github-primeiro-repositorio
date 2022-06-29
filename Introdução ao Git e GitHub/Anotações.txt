@@ -1,2 +1,35 @@
-link para instalar o git:
+link para download do git: https://git-scm.com/
+
+"O Git é um sistema de controle de versão distribuída de código aberto e gratuito projetado para lidar com tudo, desde projetos pequenos até grandes com velocidade e eficiência." Foi criado por Linus Torvald
+
+O GitHub é uma rede social de desenvolvedores. 
+
+Benefícios de aprender:
+1) Controle de versão 
+2)Armazenamento em nuvem
+3)Trabalho em equipe
+4)Melhorar seu código
+5)Reconhecimento
+
+Comandos básicos:
+1)Mudar de pastas 
+2)Listar pastas
+3)Criar pastas/arquivos
+4)Deletar pastas/arquivos
+
+Windows: 
+1)cd
+2)dir
+3)mkdir
+4)del/rmdir 
+
+GitHub é um sistema distribuído e seguro.
+
 o Git bash é um terminal estendido para otimizar o uso do Git.
+
+Primeiros comandos com Git:
+git init
+git add .
+git commit
+git status
+git clone
