@@ -1,0 +1,29 @@
+Pensamento Computacional
+Baseado em 4 pilares:
+1)Descomposição
+2)Reconhecimento de padrões
+3)Abstração
+4)Design de algoritmos
+
+Lógica: Organização e planejamento das instruções, assertivas em algoritmo, a fim de viabilizar a implantação do programa.
+
+Técnicas de Lógica de programação:
+1)Técnica Linear
+2)Técnica Estruturada
+3)Técnica Modular
+
+Fundamentos do Algoritmos:
+Dados numéricos
+Caractere
+Lógico
+Booleano
+
+Variável: Mutável/possui variações.
+Constante: Que não muda o valor.
+
+Características de um Programa:
+1)Legibilidade
+2)Redijibilidade 
+3)Confiabilidade
+4)Custo
+ 
